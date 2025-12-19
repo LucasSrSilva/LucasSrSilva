@@ -5,6 +5,26 @@
 
 <!--![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSrSilva&show_icons=true&theme=radical)!-->
 
+🇧🇷
+> 🚧 **GitHub em reorganização**
+>
+> No momento, a maioria dos meus repositórios (mais de 70) foi removida ou tornada privada como parte de um processo de reorganização do portfólio.
+>
+> Novos projetos, mais completos, bem documentados e alinhados com boas práticas, estão sendo estruturados e publicados em breve.
+>
+> Obrigado pela visita e compreensão.
+
+🇺🇸
+> 🚧 **GitHub portfolio reorganization**
+>
+> Most of my repositories (70+) are currently removed or private as part of a portfolio reorganization process.
+>
+> New projects — more complete, well-documented, and aligned with best practices — are being structured and will be published soon.
+>
+> Thank you for visiting and for your understanding.
+
+<br>
+
 ## 🚀 Stacks
 
 <div style="display: inline_block"><br>
@@ -51,22 +71,3 @@
     <img align="center" alt="Web3" src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
-<br><br>
-
-🇧🇷
-> 🚧 **GitHub em reorganização**
->
-> No momento, a maioria dos meus repositórios (mais de 70) foi removida ou tornada privada como parte de um processo de reorganização do portfólio.
->
-> Novos projetos, mais completos, bem documentados e alinhados com boas práticas, estão sendo estruturados e publicados em breve.
->
-> Obrigado pela visita e compreensão.
-
-🇺🇸
-> 🚧 **GitHub portfolio reorganization**
->
-> Most of my repositories (70+) are currently removed or private as part of a portfolio reorganization process.
->
-> New projects — more complete, well-documented, and aligned with best practices — are being structured and will be published soon.
->
-> Thank you for visiting and for your understanding.
